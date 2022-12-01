@@ -1,0 +1,21 @@
+{
+  "name": "adventjs-2022",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulJDev/adventjs-2022.git"
+  },
+  "keywords": [],
+  "author": "Paul Javaloyes <pauljavaloyesdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulJDev/adventjs-2022/issues"
+  },
+  "homepage": "https://github.com/PaulJDev/adventjs-2022#readme"
+}
