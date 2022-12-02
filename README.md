@@ -2,6 +2,11 @@
 
 ## 24 días 24 retos de programación
 
-|  #  |                                   Challenge                                   | Difficulty[^1] |                                                      Solution                                                      |
-| :-: | :---------------------------------------------------------------------------: | :------------: | :----------------------------------------------------------------------------------------------------------------: |
-| 01  | [Automating Christmas gift wrapping!](https://adventjs.dev/challenges/2022/1) |       🟢       | [click here](https://github.com/PaulJDev/adventjs-2022/tree/main/src/01_Automatizando_envolver_regalos_de_navidad) |
+|  #  |                                         Reto                                          | Dificultad |                                                   Solución                                                   |
+| :-: | :-----------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------------------------------: |
+| 01  | [¡Automatizando envolver regalos de navidad!](https://adventjs.dev/challenges/2022/1) |     🟢     | [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/01_Automatizando_envolver_regalos_de_navidad) |
+| 02  |       [Nadie quiere hacer horas extra](https://adventjs.dev/challenges/2022/1)        |     🟢     |      [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/02_Nadie_quiere_hacer_horas_extra)       |
+
+|  🟢  |   🟡   |  🔴  |
+| :--: | :----: | :--: |
+| Easy | Medium | Hard |
