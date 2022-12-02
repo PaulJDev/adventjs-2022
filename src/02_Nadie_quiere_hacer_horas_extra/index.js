@@ -1,4 +1,4 @@
-function countHours(year, holidays) {
+export function countHours(year, holidays) {
   const EXTRA_HOURS = 2
 
   const isWeekend = (date) => {
