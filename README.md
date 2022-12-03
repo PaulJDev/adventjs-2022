@@ -1,8 +1,11 @@
 # [AdventJS 2022](https://adventjs.dev/)
 
+<div style="text-align: center">
+<img alt="AdventJS 2022" src="https://efecomunica.efe.com/wp-content/uploads/2022/12/rss-efea4f235aff03a9b1ad640ba685263d8e85546e902w.jpg" width="750" />
+
 <sup>Creado por [@midudev](https://twitter.com/midudev)</sup>
 
-## 24 días 24 retos de programación
+</div>
 
 |  #  |                                         Reto                                          | Dificultad |                                                   Solución                                                   |
 | :-: | :-----------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------------------------------: |
