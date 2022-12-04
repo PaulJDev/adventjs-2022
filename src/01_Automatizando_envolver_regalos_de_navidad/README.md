@@ -1,5 +1,5 @@
-<p style="text-align: center">
-<img alt="chanllenge_01" src="https://adventjs.dev/challenges-2022/1.svg" width="200"  /> 
+<p align="center">
+    <img alt="chanllenge_01" src="https://adventjs.dev/challenges-2022/1.svg" width="200"  /> 
 </p>
 
 # Instrucciones
