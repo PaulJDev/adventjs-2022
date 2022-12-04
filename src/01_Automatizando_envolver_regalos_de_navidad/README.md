@@ -1,3 +1,7 @@
+<p style="text-align: center">
+<img alt="chanllenge_01" src="https://adventjs.dev/challenges-2022/1.svg" width="200"  /> 
+</p>
+
 # Instrucciones
 
 Este año los elfos han comprado una máquina que envuelve regalos. Pero... ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
