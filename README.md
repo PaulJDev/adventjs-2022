@@ -6,10 +6,11 @@
 
 ## RETOS
 
-|  #  |                                         Reto                                          | Dificultad |                                                   Solución                                                   |
-| :-: | :-----------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------------------------------: |
-| 01  | [¡Automatizando envolver regalos de navidad!](https://adventjs.dev/challenges/2022/1) |     🟢     | [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/01_Automatizando_envolver_regalos_de_navidad) |
-| 02  |       [Nadie quiere hacer horas extra](https://adventjs.dev/challenges/2022/1)        |     🟢     |      [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/02_Nadie_quiere_hacer_horas_extra)       |
+|  #  |                                            Reto                                             | Dificultad |                                                      Solución                                                      |
+| :-: | :-----------------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------------------------------------: |
+| 01  |    [¡Automatizando envolver regalos de navidad!](https://adventjs.dev/challenges/2022/1)    |     🟢     |    [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/01_Automatizando_envolver_regalos_de_navidad)    |
+| 02  |          [Nadie quiere hacer horas extra](https://adventjs.dev/challenges/2022/2)           |     🟢     |         [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/02_Nadie_quiere_hacer_horas_extra)          |
+| 03  | [¿Cuántas cajas de regalos puede llevar Papá Noel?](https://adventjs.dev/challenges/2022/3) |     🟢     | [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/03_Cuantas_cajas_de_regalos_puede_llevar_Papa_Noel) |
 
 |  🟢   |  🟡   |   🔴    |      🟣       |
 | :---: | :---: | :-----: | :-----------: |
