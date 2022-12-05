@@ -6,7 +6,7 @@ export function fitsInOneBox(boxes) {
   }
 
   return boxes
-    .map(({ w, l, h }) => ({ w, l, h })) //No es necesario, es para evitar la mutación del objecto original por el sort
-    .sort((a, b) => b.l - a.l)
+    .map(({ w, l, h }) => ({ w, l, h })) //No es necesario, es para evitar la mutación del objeto original por el sort
+    .sort((a, b) => b.l - a.l && b.w - a.w && b.h - a.h)
     .every((box, i, self) => isLowerThanPrevious(box, self[i - 1]))
 }
