@@ -16,5 +16,6 @@ Creado por [@midudev](https://twitter.com/midudev)
 | 04  |      [Una caja dentro de otra caja y otra...](https://adventjs.dev/challenges/2022/4)       |     🟡     |       [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/04_Una_caja_dentro_de_otra_caja_y_otra)       |
 | 05  |            [Optimizando viajes de Santa](https://adventjs.dev/challenges/2022/5)            |     🔴     |           [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/05_Optimizando_viajes_de_Santa)           |
 | 06  |             [Creando adornos navideños](https://adventjs.dev/challenges/2022/6)             |     🟡     |            [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/06_Creando_adornos_navideños)            |
+| 07  |          [Haciendo inventario de regalos](https://adventjs.dev/challenges/2022/7)           |     🟢     |         [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/07_Haciendo_inventario_de_regalos)          |
 
 <sub>Los puntos de los retos son los padres</sub>
