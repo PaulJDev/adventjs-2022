@@ -17,5 +17,6 @@ Creado por [@midudev](https://twitter.com/midudev)
 | 05  |            [Optimizando viajes de Santa](https://adventjs.dev/challenges/2022/5)            |     🔴     |           [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/05_Optimizando_viajes_de_Santa)           |
 | 06  |             [Creando adornos navideños](https://adventjs.dev/challenges/2022/6)             |     🟡     |            [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/06_Creando_adornos_navideños)            |
 | 07  |          [Haciendo inventario de regalos](https://adventjs.dev/challenges/2022/7)           |     🟢     |         [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/07_Haciendo_inventario_de_regalos)          |
+| 08  |          [Haciendo inventario de regalos](https://adventjs.dev/challenges/2022/8)           |     🟡     |             [aquí](https://github.com/PaulJDev/adventjs-2022/tree/main/src/08_Necesitamos_un_mecanico)             |
 
 <sub>Los puntos de los retos son los padres</sub>
